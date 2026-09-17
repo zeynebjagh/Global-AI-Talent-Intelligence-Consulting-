@@ -34,7 +34,7 @@ The project follows a complete BI pipeline: **data cleaning → dimensional mode
 
 | Layer | Tools |
 |---|---|
-| **Data Source** | [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com) dataset (Kaggle) — 15,000 records, 19 variables |
+| **Data Source** | [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025) dataset (Kaggle) — 15,000 records, 19 variables |
 | **Data Cleaning / ETL** | Python (pandas, numpy) |
 | **Data Warehouse** | MySQL — Star Schema |
 | **Analysis** | SQL (ROLAP-style multi-dimensional queries) |
@@ -80,7 +80,7 @@ The project follows a complete BI pipeline: **data cleaning → dimensional mode
 
 ![Dashboard](dashboard/dashboard_preview.png)
 
-*(add your exported Power BI screenshot here)*
+<img src="dashboard/dashboard_preview.png" alt="Global AI Talent Intelligence Power BI Dashboard" width="900">
 
 ---
 

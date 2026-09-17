@@ -78,9 +78,9 @@ The project follows a complete BI pipeline: **data cleaning → dimensional mode
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard_preview.png)
+<img src="https://raw.githubusercontent.com/zeynebjagh/Global-AI-Talent-Intelligence-Consulting-/main/dashboard/dashboard_preview.png" alt="Global AI Talent Intelligence Power BI Dashboard" width="900">
 
-<img src="dashboard/dashboard_preview.png" alt="Global AI Talent Intelligence Power BI Dashboard" width="900">
+[Open the dashboard image](https://github.com/zeynebjagh/Global-AI-Talent-Intelligence-Consulting-/blob/main/dashboard/dashboard_preview.png)
 
 ---
 
